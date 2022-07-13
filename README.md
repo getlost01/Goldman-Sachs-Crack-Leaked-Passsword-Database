@@ -14,15 +14,21 @@
 
 ## Resources 
 
-[Password Dump](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt)
+[Password Dump](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt)<br>
 
 
+<br> 
 [Password cracking explained (techniques described in 2013 still haven’t changed)](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn)
+<br> 
 [Password salting](https://en.wikipedia.org/wiki/Salt_(cryptography))
+<br>
 [Hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+<br>
 [Password cracking tools](https://en.wikipedia.org/wiki/Password_cracking#Software) 
+<br> 
 [Password strength checker](https://howsecureismypassword.net/) 
 
 ## Task detail
 
-Full deatil og given task is [here](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn) 
+Full deatil og given task is [here](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn) <br>
+I personally prefer [dcode](https://www.dcode.fr/md5-hash) for decode hash keys, this is best decoder which I have used.

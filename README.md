@@ -1,6 +1,6 @@
 # Goldman-Sachs-Crack-Leaked-Passsword-Database
 
-## Project Objectuve
+## Project Objective
 `What type of hashing algorithm was used to protect passwords?`
 
 `What level of protection does the mechanism offer for passwords?`
@@ -14,26 +14,18 @@
 
 ## Resources 
 
-Given [Password Dump](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt) , to crack.
+Given [Password Dump](https://cdn.theforage.com/vinternships/companyassets/MBA4MnZTNFEoJZGnk/passwd_dump.txt) for task to crack.
 
 
 <br> 
 
-[Password cracking explained (techniques described in 2013 still haven’t changed)](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn)
-<br> 
-
-[Password salting](https://en.wikipedia.org/wiki/Salt_(cryptography))
-<br>
-
-[Hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
-<br>
-
-[Password cracking tools](https://en.wikipedia.org/wiki/Password_cracking#Software) 
-<br> 
-
+[Password cracking explained (techniques described in 2013 still haven’t changed)](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn)<br> 
+[Password salting](https://en.wikipedia.org/wiki/Salt_(cryptography))<br>
+[Hash functions](https://en.wikipedia.org/wiki/Cryptographic_hash_function)<br>
+[Password cracking tools](https://en.wikipedia.org/wiki/Password_cracking#Software)<br> 
 [Password strength checker](https://howsecureismypassword.net/) 
 
 ## Task detail
 
-Full deatil og given task is [here](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn) <br>
+Full detail of given task is [here](https://www.theforage.com/modules/NPdeQ43o8P9HJmJzg/G5apo6ujfBcgYTBDn) <br>
 I personally prefer [dcode](https://www.dcode.fr/md5-hash) for decode hash keys, this is best decoder which I have used.
